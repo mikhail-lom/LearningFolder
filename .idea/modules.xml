@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DifferentTestProjects/DifferentTestProjects.iml" filepath="$PROJECT_DIR$/DifferentTestProjects/DifferentTestProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LearningFolder.iml" filepath="$PROJECT_DIR$/.idea/LearningFolder.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleVariantBubbleSort/SimpleVariantBubbleSort.iml" filepath="$PROJECT_DIR$/SimpleVariantBubbleSort/SimpleVariantBubbleSort.iml" />
     </modules>

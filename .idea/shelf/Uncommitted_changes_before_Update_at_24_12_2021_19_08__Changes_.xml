@@ -1,9 +1,0 @@
-<changelist name="Uncommitted_changes_before_Update_at_24_12_2021_19_08_[Changes]" date="1640362156610" recycled="false" toDelete="true" deleted="true">
-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_12_2021_19_08_[Changes]/shelved.patch" />
-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 24.12.2021 19:08 [Changes]" />
-  <binary>
-    <option name="BEFORE_PATH" />
-    <option name="AFTER_PATH" value="out/production/BubbleSort/BubbleSort.class" />
-    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_12_2021_19_08_[Changes]/BubbleSort.class" />
-  </binary>
-</changelist>
